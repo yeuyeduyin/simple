@@ -2,7 +2,7 @@ package simple
 
 import (
 	"github.com/sirupsen/logrus"
-	"gorm.io/gorm"
+	"github.com/jinzhu/gorm"
 )
 
 type SqlCnd struct {
